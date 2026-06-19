@@ -1,0 +1,34 @@
+{
+  "id": "tupad",
+  "name": "Tulong Panghanapbuhay sa Ating Disadvantaged/Displaced Workers (TUPAD)",
+  "agency": "DOLE",
+  "description": "Emergency employment program providing short-term work for displaced or seasonal workers",
+  "benefits": "₱500/day (minimum wage rate) for 10–30 working days",
+  "eligibility_rules": {
+    "employment_status": ["unemployed", "informal", "self_employed"],
+    "min_age": 18,
+    "max_age": 59,
+    "not_regular_employed": true,
+    "categories": [
+      "displaced_worker",
+      "underemployed",
+      "seasonal_worker",
+      "family_workers",
+      "homeworkers"
+    ]
+  },
+  "conflicts_with": ["employed_formal"],
+  "documents": [
+    "Valid government-issued ID",
+    "Barangay Certificate of Residency",
+    "Sworn Statement of Unemployment/Displacement",
+    "Community Tax Certificate (Cedula)"
+  ],
+  "office": "DOLE Provincial Office or Field Office",
+  "next_steps": [
+    "Check for active TUPAD programs in your LGU via DOLE regional website",
+    "Register at your Barangay Hall or PESO (Public Employment Service Office)",
+    "Submit documentary requirements to DOLE Field Office",
+    "Participate in skills assessment if required"
+  ]
+}

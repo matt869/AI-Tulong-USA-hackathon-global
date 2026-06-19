@@ -1,0 +1,29 @@
+{
+  "id": "4ps",
+  "name": "Pantawid Pamilyang Pilipino Program (4Ps)",
+  "agency": "DSWD",
+  "description": "Conditional cash transfer program providing financial assistance to poor households",
+  "benefits": "₱500–₱750/month per child (education) + ₱750/month (health), max 3 children",
+  "eligibility_rules": {
+    "max_monthly_income": 3000,
+    "household_size_min": 2,
+    "has_children_0_18": true,
+    "location_types": ["rural", "urban"],
+    "income_per_capita_max": 1500
+  },
+  "conflicts_with": ["tupad_active"],
+  "documents": [
+    "PSA Birth Certificate (all children)",
+    "Barangay Certificate of Indigency",
+    "Valid ID of household head",
+    "Certificate of No Income or ITR",
+    "School Enrollment Proof (children 6–18)"
+  ],
+  "office": "DSWD Field Office or Municipal Social Welfare Office (MSWD)",
+  "next_steps": [
+    "Visit your Municipal Social Welfare and Development Office (MSWDO)",
+    "Submit completed household assessment form",
+    "Undergo Proxy Means Test (PMT) evaluation",
+    "Wait for national household targeting system (Listahanan) validation"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "conflicts": [
+    {
+      "programs": ["4ps", "tupad_active_beneficiary"],
+      "reason": "4Ps beneficiaries who are already receiving regular CCT grants may be deprioritized for TUPAD slots to allow other displaced workers access.",
+      "resolution": "If already enrolled in 4Ps, prioritize sustaining 4Ps benefits. Apply for TUPAD only during gaps or displacement events, and inform DSWD of additional employment."
+    },
+    {
+      "programs": ["tupad", "regular_employment"],
+      "reason": "TUPAD is designed for displaced, seasonal, or informal workers. Regular employees with stable formal employment are ineligible.",
+      "resolution": "If you have recently lost formal employment, you may apply for TUPAD. Keep separation documents as proof of displacement."
+    }
+  ]
+}

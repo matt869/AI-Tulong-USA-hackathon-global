@@ -1,0 +1,32 @@
+{
+  "id": "sss",
+  "name": "Social Security System (SSS)",
+  "agency": "SSS",
+  "description": "Social insurance providing benefits for sickness, maternity, disability, retirement, and death",
+  "benefits": "Sickness: 90% of daily salary credit; Maternity: up to ₱70,000; Retirement: monthly pension",
+  "eligibility_rules": {
+    "min_age": 18,
+    "employment_status": ["employed", "self_employed", "informal", "voluntary"],
+    "min_contributions_for_benefits": {
+      "sickness": 3,
+      "maternity": 3,
+      "disability": 36,
+      "retirement": 120
+    }
+  },
+  "conflicts_with": [],
+  "documents": [
+    "Accomplished SSS Form E-1 (Personal Record)",
+    "Birth Certificate (PSA)",
+    "Valid government-issued ID",
+    "Employment Certificate (for employed)",
+    "Tax Identification Number (TIN)"
+  ],
+  "office": "Nearest SSS Branch or online at my.sss.gov.ph",
+  "next_steps": [
+    "Register online at my.sss.gov.ph or visit nearest SSS branch",
+    "Submit Form E-1 with supporting documents",
+    "Receive SSS number and biometrics capturing",
+    "Begin contributions (employer-shared if employed)"
+  ]
+}

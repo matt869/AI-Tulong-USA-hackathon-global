@@ -1,0 +1,49 @@
+{
+  "ngos": [
+    {
+      "id": "gawad_kalinga",
+      "name": "Gawad Kalinga",
+      "focus": ["housing", "livelihood", "community"],
+      "description": "Community development organization providing housing, livelihood training, and community building programs.",
+      "contact": "info@gk1world.com",
+      "website": "https://gk1world.com",
+      "regions": ["nationwide"]
+    },
+    {
+      "id": "cws_philippines",
+      "name": "Church World Service Philippines",
+      "focus": ["disaster_relief", "livelihood", "health"],
+      "description": "Provides emergency relief, livelihood support, and health programs for vulnerable communities.",
+      "contact": "cwsphils@cwsphils.org",
+      "website": "https://cwsphils.org",
+      "regions": ["nationwide"]
+    },
+    {
+      "id": "tahanang_walang_hagdanan",
+      "name": "Tahanang Walang Hagdanan",
+      "focus": ["pwd", "livelihood", "rehabilitation"],
+      "description": "Dedicated to the rehabilitation and livelihood of persons with disabilities.",
+      "contact": "twh@twh.org.ph",
+      "website": "https://twh.org.ph",
+      "regions": ["ncr", "region_4a"]
+    },
+    {
+      "id": "philhdi",
+      "name": "Philippine Human Development Institute",
+      "focus": ["education", "livelihood", "social_protection"],
+      "description": "Provides micro-finance, livelihood training, and social protection advocacy.",
+      "contact": "info@philhdi.org",
+      "website": "https://philhdi.org",
+      "regions": ["nationwide"]
+    },
+    {
+      "id": "kaya_natin",
+      "name": "Kaya Natin! Movement",
+      "focus": ["governance", "social_services", "community_organizing"],
+      "description": "Supports communities in accessing government services and promotes good governance.",
+      "contact": "info@kayanatin.ph",
+      "website": "https://kayanatin.ph",
+      "regions": ["nationwide"]
+    }
+  ]
+}

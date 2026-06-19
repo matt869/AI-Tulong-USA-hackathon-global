@@ -1,0 +1,36 @@
+{
+  "offices": [
+    {
+      "agency": "DSWD",
+      "region": "NCR",
+      "name": "DSWD Field Office NCR",
+      "address": "IBP Road, Batasan Hills, Quezon City",
+      "phone": "(02) 8931-8101",
+      "website": "https://fo-ncr.dswd.gov.ph"
+    },
+    {
+      "agency": "PhilHealth",
+      "region": "NCR",
+      "name": "PhilHealth Central Office",
+      "address": "Citystate Centre, 709 Shaw Blvd, Pasig City",
+      "phone": "(02) 8441-7442",
+      "website": "https://www.philhealth.gov.ph"
+    },
+    {
+      "agency": "DOLE",
+      "region": "NCR",
+      "name": "DOLE NCR Regional Office",
+      "address": "DOLE Building, Muralla St., Intramuros, Manila",
+      "phone": "(02) 8527-8000",
+      "website": "https://ncr.dole.gov.ph"
+    },
+    {
+      "agency": "SSS",
+      "region": "NCR",
+      "name": "SSS Main Office",
+      "address": "SSS Building, East Avenue, Diliman, Quezon City",
+      "phone": "1455",
+      "website": "https://www.sss.gov.ph"
+    }
+  ]
+}

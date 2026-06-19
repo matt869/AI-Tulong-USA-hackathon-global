@@ -1,0 +1,32 @@
+{
+  "id": "philhealth",
+  "name": "Philippine Health Insurance (PhilHealth)",
+  "agency": "PhilHealth",
+  "description": "National health insurance providing coverage for hospitalization and medical procedures",
+  "benefits": "Inpatient/outpatient coverage, maternity, TB-DOTS, Z-benefit packages",
+  "eligibility_rules": {
+    "min_age": 0,
+    "citizenship": "Filipino",
+    "categories": {
+      "employed": { "requires_employer_registration": true },
+      "self_employed": { "min_monthly_income": 0 },
+      "informal": { "can_enroll_as_indigent": true, "max_monthly_income": 10000 },
+      "unemployed": { "can_enroll_as_dependent": true }
+    }
+  },
+  "conflicts_with": [],
+  "documents": [
+    "Valid government-issued ID",
+    "Accomplished PhilHealth Member Registration Form (PMRF)",
+    "Certificate of Employment (for employed)",
+    "DTI/SEC Registration (for self-employed)",
+    "Barangay Certificate (for indigent)"
+  ],
+  "office": "Nearest PhilHealth Local Health Insurance Office (LHIO)",
+  "next_steps": [
+    "Determine your membership category (employed, self-employed, indigent)",
+    "Visit nearest PhilHealth office or register online at philhealth.gov.ph",
+    "Submit required documents and fill out PMRF",
+    "Pay membership contributions (if applicable)"
+  ]
+}
