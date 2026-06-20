@@ -1,0 +1,20 @@
+"""colors.py - central color palette for the whole UI."""
+
+BG_TOP = (24, 22, 45)
+BG_BOTTOM = (55, 30, 60)
+PANEL = (30, 28, 48)
+PANEL_BORDER = (90, 80, 130)
+
+TEXT = (240, 240, 245)
+TEXT_DIM = (170, 165, 190)
+
+BTN_BASE = (90, 70, 150)
+BTN_HOVER = (125, 100, 195)
+BTN_DISABLED = (60, 55, 75)
+BTN_SPECIAL = (180, 90, 60)
+BTN_SPECIAL_HOVER = (215, 120, 80)
+
+GOLD = (240, 200, 90)
+GREEN = (90, 220, 110)
+RED = (220, 70, 70)
+WHITE = (255, 255, 255)
